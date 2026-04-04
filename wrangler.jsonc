@@ -14,9 +14,6 @@
 		{ "pattern": "jazza.dev", "custom_domain": true },
 		{ "pattern": "www.jazza.dev", "custom_domain": true },
 	],
-	"build": {
-		"command": "pnpm run build",
-	},
 	"observability": {
 		"enabled": true,
 	},
