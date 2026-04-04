@@ -24,9 +24,9 @@
 	<div class="who">
 		<h2>Who am I?</h2>
 		<p>
-			My name is Jazza, and I am an {age} year old beginner programmer. I began to learn programming
-			about {age - 17 === 1 ? "1 year" : age - 17 + " years"} ago, starting with JS in order to contribute
-			to the Scratch Addons project.
+			My name is Jazza, and I am an {age} year old beginner programmer. I began to learn programming about
+			{age - 17 === 1 ? "1 year" : age - 17 + " years"} ago, starting with JS in order to contribute to
+			the Scratch Addons project.
 		</p>
 		<p>
 			My relationship with programming is one of immense love-filled hatred.
