@@ -53,6 +53,10 @@
 		"three": "^0.178.0"
 	},
 	"pnpm": {
-		"onlyBuiltDependencies": ["esbuild", "sharp", "workerd"]
+		"onlyBuiltDependencies": [
+			"esbuild",
+			"sharp",
+			"workerd"
+		]
 	}
 }
