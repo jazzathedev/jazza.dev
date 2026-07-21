@@ -51,12 +51,5 @@
 		"detect-gpu": "^5.0.70",
 		"gsap": "^3.13.0",
 		"three": "^0.178.0"
-	},
-	"pnpm": {
-		"onlyBuiltDependencies": [
-			"esbuild",
-			"sharp",
-			"workerd"
-		]
 	}
 }
