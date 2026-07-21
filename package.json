@@ -35,7 +35,7 @@
 		"typescript-eslint": "^8.36.0",
 		"vite": "^7.0.3",
 		"vitest": "^3.2.4",
-		"wrnagler": "^1.0.0"
+		"wrangler": "^4.112.0"
 	},
 	"type": "module",
 	"dependencies": {
